@@ -6,7 +6,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+🚀 Desenvolvedor Full-Stack em constante evolução e apaixonado por tecnologia!
 
+Estou em transição de carreira, para entrar de vez na área do desenvolvimento, à mais de 2 anos estou estudando programação Web, e veio fazendo alguns projetos pessoais e para terceiros, procurando sempre me aperfeiçoar ao máximo. Desde o começo percebi uma coisa, que me ajudou bastante, o termo "cair de cabeça no código", aprendi muitas técnicas para escrever um melhor código, e como realmente funciona, simplesmente codando, tem que ter uma certa teoria, mas o aprendizado de verdade vem com a insistência, tem que "queimar os neurôrios", até resolver um bug, ou uma dificuldade que você tem
 ###
 
 <!--<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />-->
